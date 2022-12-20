@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PDFViewer</string>
+    <string name="eraser">eraser</string>
+    <string name="highlight">highlight</string>
+    <string name="pen">pen</string>
+    <string name="redo">redo</string>
+    <string name="pan">pan</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+</resources>

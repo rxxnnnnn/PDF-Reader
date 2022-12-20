@@ -1,0 +1,33 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.codebot.pdfviewer.test" >
+4
+5    <uses-sdk
+5-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:11:5-15:71
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:13:22-53
+13        android:label="Tests for net.codebot.pdfviewer"
+13-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:15:22-69
+14        android:targetPackage="net.codebot.pdfviewer" />
+14-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:12:22-67
+15
+16    <application android:debuggable="true" >
+16-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:7:5-9:19
+16-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:8:9-60
+17-->/Users/ruoxuanwang/Desktop/CS349/assignments/a5/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8822272462958516269.xml:8:23-57
+18    </application>
+19
+20</manifest>
