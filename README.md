@@ -10,7 +10,7 @@ Ruoxuan Wang\
   Highlighting: done by clicking the second icon and use one finger drawing on the pdf\
   Erase: done by clicking the third icon and use one finger moving on the pdf.\
   Zoom: done by usw two fingers.\
-  Pan: done by clicking the fourth icon and use one finger to pan it. Drawing, highlighting and erasing is enabled after clicking this icon.\
+  Pan: done by clicking the fourth icon and use one finger to pan it. Drawing, highlighting and erasing is enabled after clicking this icon.
   
   Fifth icon: undo (at most 10 steps)\
   Sixth icon: redo\
